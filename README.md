@@ -3,6 +3,7 @@
 ### 🚀 Sobre mim
 - 🎓 Estudante do 3º ano do Ensino Médio Técnico em Informática.
 - 💻 Desenvolvedor **Full-Stack** com foco em **Backend**.
+- 📖 Sempre procurando aprender coisas novas como: automação, IA ou novas linguagens.
 
 ---
 
