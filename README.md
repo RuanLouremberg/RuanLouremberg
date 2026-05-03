@@ -36,8 +36,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-dracula:
-https://github-readme-stats.vercel.app/api?username=RuanLouremberg&show_icons=true&theme=dracula
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RuanLouremberg&theme=radical)
 
 ---
 
